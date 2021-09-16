@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1631832710 source:c:\users\lenovo\onedrive\desktop\casestudy\casestudy\fuse.c
+	<avr/io.h>
+
+1631835517 source:c:\users\lenovo\onedrive\desktop\casestudy\casestudy\activity1.c
+	<avr/io.h>
+	<util/delay.h>
+	"Activity1.h"
+
+1631833977 c:\users\lenovo\onedrive\desktop\casestudy\casestudy\activity1.h
+
+1631835853 source:c:\users\lenovo\onedrive\desktop\casestudy\casestudy\main.c
+	<avr/io.h>
+	"Activity1.h"
+
